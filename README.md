@@ -2,7 +2,7 @@
 
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
-- The client is The Gaming Room who has tasked me with desining a game called 'Draw It or Lose It'. The requirments of the software include running on multiple platforms, allow for multiple teams with multiple users assigned to them, only one instance of a game is allowed to run, and each team is allowed a unique name.
+-The client is The Gaming Room who has tasked me with desining a game called 'Draw It or Lose It'. The requirments of the software include running on multiple platforms, allow for multiple teams with multiple users assigned to them, only one instance of a game is allowed to run, and each team is allowed a unique name.
   
 What did you do particularly well in developing this documentation?
 
@@ -10,7 +10,7 @@ What did you do particularly well in developing this documentation?
 
 What about the process of working through a design document did you find helpful when developing the code?
 
-- Creating the design restraints and requirments, as well as an executive summary worked as a guide to move the code in the correct direction.
+-Creating the design restraints and requirments, as well as an executive summary worked as a guide to move the code in the correct direction.
   
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
